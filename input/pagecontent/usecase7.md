@@ -39,7 +39,9 @@ received a new shipment from a new supplier.
 
 The products delivered by the trusted supplier have been registered in
 the FMD Hub, as described in the IHE educational material for FMD:
-[<u>http://ihe.net/uploadedFiles/Documents/Pharmacy/IHE%20Pharmacy%20FMD%20Guide_Rev1.0_2017-02-08.pdf</u>](http://ihe.net/uploadedFiles/Documents/Pharmacy/IHE%20Pharmacy%20FMD%20Guide_Rev1.0_2017-02-08.pdf)
+[<u>https://www.ihe.net/wp-content/uploads/uploadedFiles/Documents/Pharmacy/IHE-Pharmacy-FMD-
+Guide_Rev1.0_2017-02-08.pdf</u>](https://www.ihe.net/wp-content/uploads/uploadedFiles/Documents/Pharmacy/IHE-Pharmacy-FMD-
+Guide_Rev1.0_2017-02-08.pdf)
 
 The products delivered by the new supplier are not registered.
 
@@ -70,9 +72,11 @@ only one dispensed.
 
 ### Sequence Diagram
 
-<div style="text-align:center">
-<img src="image_UC7_SequenceDiagram.png" style="width:5.88757in;height:8.14593in"/>
-</div>
+
+<figure>
+  {% include usecase-7-diagram.svg %}
+  <figcaption>Example with styles and other features</figcaption>
+</figure>
 
 ### Requirements
 
